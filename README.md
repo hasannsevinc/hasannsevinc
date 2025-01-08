@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hasan Sevinç</h1>
+<h1 align="center">Hi 👋, I'm Hasan Sevinc</h1>
 <h3 align="center">I am a electric & electronic engineering student</h3>
 
 
